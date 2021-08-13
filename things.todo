@@ -1,0 +1,30 @@
+** UI **
+  - Scroll using buttons @done
+  - Show suggestions on the bottom of the Article @done
+  - Search and Implement the second font @done
+  - [EXTRA] Maybe place avatar images on cards or suggestions
+  - Make page for 404 not found @done
+  - Resize text on the home page @done
+  - Article Title with fancy background animation but might remove later @done
+  - Make a unified space for declaring font, and have to change it @done
+  - Skeleton Loader for Article @done
+  - Make the skeleton loaders for the paragraphs adapt to screen size @done
+  - Finalize routing, by dividing into Categories @done
+  - Indicate when there is no content @done
+  - Redirect to not found page when not found on Article @done
+  - [EXTRA] Don`t show unecessary suggestions @done
+  - [EXTRA] Come up with something for the black gradient in the suggestions
+  - Idk what happens in safari but have to look into it @done
+  - Idk maaan what the actual fuck fix Article suggestion not clickable @done
+  - Dont`t forget to delete the line where it logs out the node env mode @done
+  - Implement the streets @done
+  - Skeleton loading for Card border fix @done
+  - Clear up z-indexes or set a min height for the page so that the fancy balls dont`t collide with the footer @done
+  - [Pending] Replace Images in Impressum
+  - [Pending] Complete "Elérhetőségek"
+
+** BACKEND **
+  - Article ID should be of type uuid @done
+
+** Misc **
+  - Disable Source Map @done
