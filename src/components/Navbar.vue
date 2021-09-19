@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="relative bg-teagreen bg-opacity-75 backdrop-filter backdrop-blur-lg top-0 z-50 main-ft"
+    class="relative bg-teagreen bg-opacity-75 top-0 z-50 main-ft"
     :class="{ sticky: $route.name == 'Main' ? true : false }"
   >
     <section class="flex items-center justify-center">

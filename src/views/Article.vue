@@ -43,7 +43,7 @@
         flex-col justify-center text-5xl text-white font-semibold main-ft"
           v-if="!article.loading"
         >
-          <span class="text-3xl lg:text-5xl tracking-normal">{{
+          <span class="text-3xl lg:text-5xl tracking-normal md:font-extrabold">{{
             article.data[0]?.headline
           }}</span>
           <span

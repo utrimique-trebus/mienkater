@@ -20,8 +20,13 @@
   - Implement the streets @done
   - Skeleton loading for Card border fix @done
   - Clear up z-indexes or set a min height for the page so that the fancy balls dont`t collide with the footer @done
-  - [Pending] Replace Images in Impressum
-  - [Pending] Complete "Elérhetőségek"
+  - On small screen footer Elérhetőségek font size @done
+  - Change Szabi role @done
+  - Change the footer`s font @done
+  - Change fancy balls`s colors @done
+  - Check the headline`s boldness at all places @done
+  - [Pending] Replace Images in Impressum @done
+  - [Pending] Complete "Elérhetőségek" @done
 
 ** BACKEND **
   - Article ID should be of type uuid @done

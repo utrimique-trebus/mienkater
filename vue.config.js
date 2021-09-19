@@ -1,5 +1,5 @@
 module.exports = {
-  // configureWebpack: {
-  //   devtool: false,
-  // },
+  configureWebpack: {
+    devtool: false,
+  },
 };

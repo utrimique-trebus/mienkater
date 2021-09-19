@@ -6,13 +6,13 @@
       <!-- Title with fancy bubbles -->
       <div class="relative">
         <div
-          class="absolute -top-8 left-42 w-72 h-72 bg-burgundy rounded-full z-0 filter blur-xl animate-blob2 opacity-60"
+          class="absolute -top-8 left-42 w-72 h-72 bg-lincolngreen rounded-full z-0 filter blur-xl animate-blob2 opacity-60"
         ></div>
         <div
           class="absolute -top-20 -right-4 w-72 h-72 bg-yellowmunsell rounded-full z-0 filter blur-xl animate-blob opacity-70"
         ></div>
         <div
-          class="absolute -bottom-16 -left-16 w-72 h-72 bg-seaweed rounded-full z-0 filter blur-xl animate-blob3 opacity-70"
+          class="absolute -bottom-16 -left-16 w-72 h-72 bg-burgundy rounded-full z-0 filter blur-xl animate-blob3 opacity-70"
         ></div>
       </div>
       <span class="absolute z-30 text-white">Főtér</span>
